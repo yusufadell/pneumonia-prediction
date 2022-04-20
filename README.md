@@ -1,6 +1,7 @@
 # pncheck
 
-Behold My Awesome Project!
+API that returns an indicator for pneumonia affection with a 94 percent upper bound from X-rays image.
+Engineered web app for detecting Pneumonia in Chest X-rays image.
 
 [![Built with Cookiecutter Django](https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg?logo=cookiecutter)](https://github.com/cookiecutter/cookiecutter-django/)
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
